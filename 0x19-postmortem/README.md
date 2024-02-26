@@ -2,11 +2,11 @@
 
 
 ## Issue Summary
-**Duration**: February 17, 2024, 2:30 PM - February 17, 2024, 4:00 PM (EST)  
+**Duration**: February 17, 2024, 2:30 PM - February 17, 2024, 4:00 PM (EAT)  
 **Impact**: The frontend of a small website experienced a catastrophic meltdown, causing chaos and confusion among users. Approximately 90% of the users were left stranded in a virtual desert during the outage.
 
 ## Timeline
-- **Issue Detected**: February 17, 2024, 2:30 PM (EST)
+- **Issue Detected**: February 17, 2024, 2:30 PM (EAT)
 - **Issue Detection**: A desperate user sent a carrier pigeon with a handwritten message describing their inability to access the website. The pigeon arrived, gasping for breath, at the development team's office, raising alarm bells.
 - **Actions Taken**: The development team sprang into action, equipped with magnifying glasses, detective hats, and a map of the tangled web. They embarked on a treacherous journey to unravel the mysteries of the frontend and backend components.
 - **Misleading Investigation**: Their adventure took a wrong turn when they stumbled upon a rabbit hole of frontend code riddles. They engaged in an epic battle of wits with the mischievous bugs, but little did they know that the true culprit lurked in the shadows of the backend realm.
